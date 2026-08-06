@@ -1,6 +1,6 @@
 # Restaurant Web Application — Test Plan
 
-**Document version:** 1.1  
+**Document version:** 1.0  
 **Project:** Bistro Restaurant Web Application  
 **Application URL:** https://bistro-template.onrender.com  
 **Prepared for:** QA Portfolio  
@@ -747,4 +747,3 @@ The following flows have the highest testing priority:
 | Version | Date | Author | Changes |
 |---|---|---|---|
 | 1.0 | 2026-08-06 | Manual QA Engineer | Initial test plan |
-| 1.1 | 2026-08-06 | Manual QA Engineer | Added dish details and customer reviews coverage |
