@@ -27,6 +27,8 @@ The application allows users to:
 - Apply a promotional code
 - Review and confirm an order
 - Submit a table reservation
+- View customer reviews
+- Submit a customer review
 - Send a contact request
 - Browse the restaurant gallery
 
@@ -48,6 +50,7 @@ The main objectives are to:
 - Validate delivery and pickup options.
 - Verify customer information and address form validation.
 - Verify reservation form functionality.
+- Verify customer review display and submission functionality.
 - Verify contact form functionality.
 - Validate gallery filtering and image display.
 - Verify that the application provides appropriate feedback for successful and unsuccessful user actions.
