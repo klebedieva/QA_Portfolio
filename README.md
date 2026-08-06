@@ -1,2 +1,4 @@
 # QA_Portfolio
-Manual QA portfolio featuring functional test documentation, test cases and bug reports for a restaurant web application.
+This project contains QA test documentation for the Bistro web application, including structured test cases covering key functionalities such as Menu, Cart, and Reservation, with a focus on functional validation and user experience.
+
+https://bistro-template.onrender.com
